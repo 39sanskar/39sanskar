@@ -55,12 +55,10 @@ From backend systems to frontend interfaces, I enjoy solving deep engineering ch
 ## GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (optional) -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=39sanskar&show_icons=true&theme=tokyonight&hide_border=true" width="380" /> -->
 
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=39sanskar&layout=compact&theme=tokyonight&hide_border=true" width="320" />
-
-  <!-- Streak Stats -->
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=39sanskar&theme=tokyonight&hide_border=true" width="400" />
 </div>
