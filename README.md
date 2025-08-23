@@ -50,7 +50,7 @@ CGPA: 8.7/10 (Ongoing 3rd year)
 ## About Me
 
 
-No hype. Just clean code. meaning
+No hype. Just clean code.
 
 
 I'm a software developer who thrives on turning complexity into clarity.
@@ -62,7 +62,7 @@ From backend systems to frontend interfaces, I enjoy solving deep engineering ch
 
 
 [LinkedIn](https://www.linkedin.com/in/sanskar-mishra-8311a7321/) •
-[Twitter](https://x.com/) •
+[Twitter](https://x.com/@SanskarMis19415) •
 [Email](mailto:39sanskar@gmail.com)
 
 
